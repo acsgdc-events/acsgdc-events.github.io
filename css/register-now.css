@@ -75,6 +75,7 @@ body {
     flex-direction: column;
     justify-content: center;
     font-family: "Adobe Clean";
+    padding: 2rem 0;
 }
 
 .register-now-container .headline {
@@ -83,6 +84,14 @@ body {
     font-size: xx-large;
     color: white;
 }
+
+@media screen and (max-width: 400px) {
+    .register-now-container .headline{
+       font-size: small;
+      }
+  }
+
+
 
 
 .countdown-container {

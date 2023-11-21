@@ -194,9 +194,13 @@ nav {
 }
 
 .full-carousel {
-    padding: 1rem 10rem 2rem 10rem;
+    /* padding: 1rem 10rem 2rem 10rem; */
     position: relative;
-    background-image: url("../images/banner-background.png");
+    /* background-image: url("../images/background-verve.png"); */
+}
+
+.full-carousel img{
+    width: 104.166666667vw;
 }
 
 .full-carousel .carousel-control-next,
