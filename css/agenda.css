@@ -80,6 +80,10 @@ h1 {
     padding: 2rem;
 }
 
+.agenda-svg img{
+    width: 60vw;
+}
+
 .agenda-svg .agenda-text-content {
     font-size: large;
 }
